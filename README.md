@@ -1,1 +1,1 @@
-"# openDayAGH" 
+# AGH Open Day 
